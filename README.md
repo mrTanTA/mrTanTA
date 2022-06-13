@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mrTanTA
-- 👀 I’m live in Canada 
-- 🌱 I’m programer C# and html and pwn
-- 💞️ my telegram id is : @NitrooEX
-- 📫 Send PM to me on the discord : "MR.TanTA#6666
+- 👋 Hi
+- Amir AKA mrTanTA
+- BC, Vancouver 
+- https://mrtanta.ir
